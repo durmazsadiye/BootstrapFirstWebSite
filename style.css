@@ -1,0 +1,24 @@
+ body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Set a background color */
+  }
+
+ 
+  .navbar {
+    background-color: #343a40; /* Change the navbar background color */
+  }
+
+  .jumbotron {
+    background-image: url('your-image-url.jpg'); /* Add a background image */
+    background-size: cover;
+    color: #ffffff; /* Set text color */
+  }
+  .footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+ 
